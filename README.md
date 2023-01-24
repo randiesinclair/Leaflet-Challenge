@@ -3,7 +3,7 @@ In this project, I was tasked with building an interactive dashboard using Leafl
 
 ![image](https://user-images.githubusercontent.com/109693942/214222564-d1eaa5c2-aa83-4d9e-9c77-eb51db58a99d.png)
 
-[Link](randiesinclair.github.io/leaflet-challenge/)
+[Link](https://randiesinclair.github.io/leaflet-challenge/)
 
 # Technical Skills
 - Basic knowledge of JavaScript
